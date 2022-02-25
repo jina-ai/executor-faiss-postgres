@@ -1,0 +1,4 @@
+psycopg2-binary==2.8.6
+bidict
+faiss-cpu==1.7.1
+tqdm
